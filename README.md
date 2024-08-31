@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Engineering Software<br>🎯 Goals: ...<br>🎲 Fun fact: ...</h4>
+<h4 align="center">✨ Creating bugs since 2024<br>📚 I'm currently learning Engineering Software<br>🎯 Goals: ...<br>🎲 Fun fact: Billie Eilish Enjoyer </h4>
 
 ###
 
