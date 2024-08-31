@@ -65,18 +65,18 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/i1vhd7hmykxthbjxya2wwlmj9">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i1vhd7hmykxthbjxya2wwlmj9&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luccaPRL/luccaPRL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luccaPRL/luccaPRL/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luccaPRL/luccaPRL/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/i1vhd7hmykxthbjxya2wwlmj9">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i1vhd7hmykxthbjxya2wwlmj9&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
